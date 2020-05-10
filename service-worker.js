@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Monstars-roman/precache-manifest.4c5f3f0a25c1dd310fc5527f494f0406.js"
+  "/Monstars-roman/precache-manifest.5d2a6e3d4c7cf5aedc7a44e8fe492528.js"
 );
 
 self.addEventListener('message', (event) => {

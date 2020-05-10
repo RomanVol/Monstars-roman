@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a85fc142aef9ac68ef5b74c7664839f",
+    "revision": "5ba81b731570c985e74c54624242312b",
     "url": "/Monstars-roman/index.html"
   },
   {
-    "revision": "50056b1d67079ec0159b",
+    "revision": "dbbf7963071e5c07e414",
     "url": "/Monstars-roman/static/css/main.8c324b26.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Monstars-roman/static/js/2.9a317882.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50056b1d67079ec0159b",
-    "url": "/Monstars-roman/static/js/main.ade58ad0.chunk.js"
+    "revision": "dbbf7963071e5c07e414",
+    "url": "/Monstars-roman/static/js/main.e6c0be92.chunk.js"
   },
   {
     "revision": "ae1f1d4d09737409857b",
