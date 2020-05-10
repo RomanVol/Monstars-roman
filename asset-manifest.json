@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Monstars-roman/static/css/main.8c324b26.chunk.css",
-    "main.js": "/Monstars-roman/static/js/main.e6c0be92.chunk.js",
-    "main.js.map": "/Monstars-roman/static/js/main.e6c0be92.chunk.js.map",
+    "main.js": "/Monstars-roman/static/js/main.ade58ad0.chunk.js",
+    "main.js.map": "/Monstars-roman/static/js/main.ade58ad0.chunk.js.map",
     "runtime-main.js": "/Monstars-roman/static/js/runtime-main.832c0948.js",
     "runtime-main.js.map": "/Monstars-roman/static/js/runtime-main.832c0948.js.map",
     "static/js/2.9a317882.chunk.js": "/Monstars-roman/static/js/2.9a317882.chunk.js",
     "static/js/2.9a317882.chunk.js.map": "/Monstars-roman/static/js/2.9a317882.chunk.js.map",
     "index.html": "/Monstars-roman/index.html",
-    "precache-manifest.5d2a6e3d4c7cf5aedc7a44e8fe492528.js": "/Monstars-roman/precache-manifest.5d2a6e3d4c7cf5aedc7a44e8fe492528.js",
+    "precache-manifest.4c5f3f0a25c1dd310fc5527f494f0406.js": "/Monstars-roman/precache-manifest.4c5f3f0a25c1dd310fc5527f494f0406.js",
     "service-worker.js": "/Monstars-roman/service-worker.js",
     "static/css/main.8c324b26.chunk.css.map": "/Monstars-roman/static/css/main.8c324b26.chunk.css.map",
     "static/js/2.9a317882.chunk.js.LICENSE.txt": "/Monstars-roman/static/js/2.9a317882.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.832c0948.js",
     "static/js/2.9a317882.chunk.js",
     "static/css/main.8c324b26.chunk.css",
-    "static/js/main.e6c0be92.chunk.js"
+    "static/js/main.ade58ad0.chunk.js"
   ]
 }
